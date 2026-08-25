@@ -30,4 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
