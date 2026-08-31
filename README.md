@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1539-kth-missing-positive-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
