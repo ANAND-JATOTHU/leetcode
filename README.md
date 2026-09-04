@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
