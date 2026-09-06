@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0326-power-of-three) |
 ## Greedy
 |  |
 | ------- |
