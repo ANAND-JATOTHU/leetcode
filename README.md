@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
 | [1539-kth-missing-positive-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
