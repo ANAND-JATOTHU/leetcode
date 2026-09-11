@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
