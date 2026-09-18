@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0042-trapping-rain-water) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/ANAND-JATOTHU/leetcode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0342-power-of-four) |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/ANAND-JATOTHU/leetcode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## String
 |  |
 | ------- |
