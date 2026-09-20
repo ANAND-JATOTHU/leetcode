@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0231-power-of-two) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0342-power-of-four) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0404-sum-of-left-leaves) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
