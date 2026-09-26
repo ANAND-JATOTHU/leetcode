@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Manacher
 |  |
 | ------- |
