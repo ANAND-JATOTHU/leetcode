@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0231-power-of-two) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
