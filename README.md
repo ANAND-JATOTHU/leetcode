@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
