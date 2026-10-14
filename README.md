@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0881-boats-to-save-people) |
 | [1539-kth-missing-positive-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0881-boats-to-save-people) |
 ## Quicksort
 |  |
 | ------- |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0022-generate-parentheses) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
