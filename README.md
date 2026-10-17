@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -240,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0881-boats-to-save-people) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
