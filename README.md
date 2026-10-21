@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
