@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0342-power-of-four) |
+| [2409-count-days-spent-together](https://github.com/ANAND-JATOTHU/leetcode/tree/master/2409-count-days-spent-together) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/ANAND-JATOTHU/leetcode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## String
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2409-count-days-spent-together](https://github.com/ANAND-JATOTHU/leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
