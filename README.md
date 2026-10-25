@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0881-boats-to-save-people) |
+| [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1539-kth-missing-positive-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,10 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Tree
 |  |
 | ------- |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
