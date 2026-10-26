@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -204,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -264,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
