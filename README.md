@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0042-trapping-rain-water) |
+| [3665-twisted-mirror-path-count](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/ANAND-JATOTHU/leetcode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Stack
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
