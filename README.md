@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0455-assign-cookies](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0704-binary-search) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Queue
 |  |
 | ------- |
