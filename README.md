@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0242-valid-anagram) |
