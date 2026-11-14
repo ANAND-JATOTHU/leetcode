@@ -1,29 +1,42 @@
+
 class Solution {
     public int myAtoi(String s) {
         int i = 0;
         int n = s.length();
         int sign = 1;
-        int result = 0;
+        long num = 0;
+
+        // Step 1: Skip leading spaces
         while (i < n && s.charAt(i) == ' ') {
             i++;
         }
+
+        // Step 2: Check sign
         if (i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
-            sign = (s.charAt(i) == '-') ? -1 : 1;
+            if (s.charAt(i) == '-') {
+                sign = -1;
+            }
             i++;
         }
 
-        while (i < n && Character.isDigit(s.charAt(i))) {
+        // Step 3: Convert digits
+        while (i < n && s.charAt(i) >= '0' && s.charAt(i) <= '9') {
             int digit = s.charAt(i) - '0';
 
-            if (result > Integer.MAX_VALUE / 10 || 
-               (result == Integer.MAX_VALUE / 10 && digit > 7)) {
-                return (sign == 1) ? Integer.MAX_VALUE : Integer.MIN_VALUE;
+            num = num * 10 + digit;
+
+            // Step 4: Handle overflow
+            if (sign * num > Integer.MAX_VALUE) {
+                return Integer.MAX_VALUE;
             }
 
-            result = result * 10 + digit;
+            if (sign * num < Integer.MIN_VALUE) {
+                return Integer.MIN_VALUE;
+            }
+
             i++;
         }
 
-        return result * sign;
+        return (int)(sign * num);
     }
 }
