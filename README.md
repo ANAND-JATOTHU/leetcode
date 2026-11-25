@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0069-sqrtx) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/ANAND-JATOTHU/leetcode/tree/master/1254-number-of-closed-islands) |
