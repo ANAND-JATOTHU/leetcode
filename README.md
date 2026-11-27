@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0042-trapping-rain-water) |
 | [3665-twisted-mirror-path-count](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/ANAND-JATOTHU/leetcode/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 ## Stack
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/ANAND-JATOTHU/leetcode/tree/master/0881-boats-to-save-people) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ANAND-JATOTHU/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Quicksort
 |  |
 | ------- |
